@@ -16,5 +16,6 @@ public class JokeApplication {
 	@Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
 		return (args) -> {};
+		//code werkt niet
     }
 }
